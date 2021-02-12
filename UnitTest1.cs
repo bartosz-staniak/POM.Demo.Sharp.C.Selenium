@@ -24,7 +24,6 @@ namespace PageObjectPatternDemo
         }
 
 
-        public static By topBanner = By.XPath("XPathGoesHere");
         public static By searchField = By.Id("IdGoesHere");
         public static By searchFieldSubmit = By.Name("NameGoesHere");
 
